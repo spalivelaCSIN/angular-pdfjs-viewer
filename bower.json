@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "angular": "~1.5.8",
-    "pdf.js-viewer": "git://github.com/spalivelaCSIN/pdf.js-viewer.git#2f38ece"
+    "pdf.js-viewer": "git://github.com/spalivelaCSIN/pdf.js-viewer.git#fe9aa9b"
   },
   "ignore": [
     "**/.*",
