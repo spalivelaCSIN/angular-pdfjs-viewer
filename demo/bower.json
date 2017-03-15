@@ -5,6 +5,6 @@
   "private": "true",
   "dependencies": {
     "angular": "~1.5.8",
-    "pdf.js-viewer": "~0.3.0"
+    "pdf.js-viewer": "git://github.com/spalivelaCSIN/pdf.js-viewer.git#a61334e"
   }
 }
